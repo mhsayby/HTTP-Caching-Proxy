@@ -1,0 +1,50 @@
+0: CONNECT piazza.com:443 HTTP/1.1 from piazza.com @ Mon Mar  2 02:47:04 2020
+
+1: CONNECT push.piazza.com:443 HTTP/1.1 from push.piazza.com @ Mon Mar  2 02:47:04 2020
+
+2: GET http://detectportal.firefox.com/success.txt HTTP/1.1 from detectportal.firefox.com @ Mon Mar  2 02:47:04 2020
+
+3: GET http://detectportal.firefox.com/success.txt?ipv6 HTTP/1.1 from detectportal.firefox.com @ Mon Mar  2 02:47:04 2020
+
+4: GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1 from detectportal.firefox.com @ Mon Mar  2 02:47:04 2020
+
+4: not in cache
+4: Requesting GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1 fromdetectportal.firefox.com
+2: not in cache
+2: Requesting GET http://detectportal.firefox.com/success.txt HTTP/1.1 fromdetectportal.firefox.com
+3: not in cache
+3: Requesting GET http://detectportal.firefox.com/success.txt?ipv6 HTTP/1.1 fromdetectportal.firefox.com
+5: GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1 from detectportal.firefox.com @ Mon Mar  2 02:47:04 2020
+
+6: GET http://detectportal.firefox.com/success.txt?ipv6 HTTP/1.1 from detectportal.firefox.com @ Mon Mar  2 02:47:04 2020
+
+5: not in cache
+5: Requesting GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1 fromdetectportal.firefox.com
+6: not in cache
+6: Requesting GET http://detectportal.firefox.com/success.txt?ipv6 HTTP/1.1 fromdetectportal.firefox.com
+7: CONNECT piazza.com:443 HTTP/1.1 from piazza.com @ Mon Mar  2 02:47:05 2020
+
+8: GET http://people.duke.edu/~bmr23/ece568/syllabus.pdf HTTP/1.1 from people.duke.edu @ Mon Mar  2 02:47:10 2020
+
+8: not in cache
+8: Requesting GET http://people.duke.edu/~bmr23/ece568/syllabus.pdf HTTP/1.1 frompeople.duke.edu
+9: CONNECT firefox.settings.services.mozilla.com:443 HTTP/1.1 from firefox.settings.services.mozilla.com @ Mon Mar  2 02:47:10 2020
+
+10: CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1 from incoming.telemetry.mozilla.org @ Mon Mar  2 02:47:11 2020
+
+11: GET http://people.duke.edu/favicon.ico HTTP/1.1 from people.duke.edu @ Mon Mar  2 02:47:11 2020
+
+11: not in cache
+11: Requesting GET http://people.duke.edu/favicon.ico HTTP/1.1 frompeople.duke.edu
+12: CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1 from incoming.telemetry.mozilla.org @ Mon Mar  2 02:47:11 2020
+
+13: CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1 from incoming.telemetry.mozilla.org @ Mon Mar  2 02:47:11 2020
+
+14: CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1 from incoming.telemetry.mozilla.org @ Mon Mar  2 02:47:11 2020
+
+15: CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1 from snippets.cdn.mozilla.net @ Mon Mar  2 02:47:11 2020
+
+16: CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1 from incoming.telemetry.mozilla.org @ Mon Mar  2 02:47:11 2020
+
+17: CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1 from incoming.telemetry.mozilla.org @ Mon Mar  2 02:47:11 2020
+
